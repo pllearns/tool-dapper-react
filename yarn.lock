@@ -6811,10 +6811,10 @@ ipfs-block@~0.8.0:
     cids "~0.5.5"
     class-is "^1.1.0"
 
-ipfs-http-client@^29.1.0:
-  version "29.1.0"
-  resolved "https://registry.yarnpkg.com/ipfs-http-client/-/ipfs-http-client-29.1.0.tgz#3a5de79e629cee5a6c423b57a2b761a7fcc688e2"
-  integrity sha512-oSdPGYyEqc7p7tj9xiFaFYVSPlzTaL1yupKoZa+iZkG99/G4ejEOdeJnkr4wlGlSKry+BZFYvELImdkEuDh7RQ==
+ipfs-http-client@^29.1.1:
+  version "29.1.1"
+  resolved "https://registry.yarnpkg.com/ipfs-http-client/-/ipfs-http-client-29.1.1.tgz#dae3319621869a5ae76c3ce16ef97658b15ba3e2"
+  integrity sha512-aAjqZ9RwnpQECkMO058YjWG79U4w4wEKvHfVdXMhgkXDFkErxRpSqoCvwIVozbTU34NwEjWsZ9WoG0lr2FtgvA==
   dependencies:
     async "^2.6.1"
     bignumber.js "^8.0.2"
